@@ -1,4 +1,4 @@
-🩺 DermAI: Deep Learning Skin Lesion Classifier
+# 🩺 DermAI: Deep Learning Skin Lesion Classifier
 
 DermAI is a specialized medical imaging tool that uses a **Convolutional Neural Network (CNN)** to classify skin lesions into 7 distinct categories with high precision.
 
